@@ -16,7 +16,7 @@
 ### 3. AI sai
 - User hỏi "quy đinh chất lỏng được mang lên máy bay" -> chatbot: trả lời ko biết -> hỏi lại -> chatbot: trả lời kết quả
 - User hỏi ngoài phạm vi (ví dụ: gấu nam cực là gì) -> chatbot: "hủy chuyến bay"
-- Vấn đề: không có khả năng nhớ ngữ cảnh, trả lời sai ngoài phạm vi
+- Vấn đề: nhầm lẫn ngữ cảnh
 
 ### 4. User mất niềm tin
 - User hỏi chatbot thường trả lời chung chung gợi ý link chứ không trả lời trực tiếp vào câu hỏi hay hỗ trợ khách thực hiện đặt chuyến
